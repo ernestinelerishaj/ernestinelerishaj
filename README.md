@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 🌐 Contributor to open source | Eager Learner
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=ernestinelerishaj&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ernestinelerishaj&color=blue)
 
 
 ## 🛠️ Skills & Technologies
@@ -44,6 +42,40 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 🛠️ Skills & Technologies
+
+### 👩‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+
+### 📡 IoT & Embedded Systems  
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)  
+ESP32, MAX30102, NEO-6M GPS, MQTT Protocol
+
+### 🤖 AI & Machine Learning  
+YOLOv7 / YOLOv10, OpenCV, MediaPipe  
+LangChain + FAISS for RAG Pipelines  
+Google Colab, Jupyter Notebook
+
+### ☁️ Cloud & Backend  
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+### ⚛️ Quantum Computing  
+![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat&logo=ibm)
+Quantum Circuits, Qubit Gates, IBM Q Experience
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ernestinelerishaj&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ernestinelerishaj&color=blue)
 
 ## 🚀 Projects & Hackathons
 
