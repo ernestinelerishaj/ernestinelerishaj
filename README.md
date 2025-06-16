@@ -1,6 +1,9 @@
 # Know About Ernestine Lerisha John 😉
 
 I’m a researcher exploring the mysteries of quantum and AI/ML — like blending stardust with logic to uncover what lies beneath the surface
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=500&color=F7305B&width=1000&lines=I%E2%80%99m+a+researcher+exploring+the+mysteries+of+quantum+and+AI%2FML+—;like+blending+stardust+with+logic+to+uncover+what+lies+beneath+the+surface" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -22,21 +25,6 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7305B&width=435&lines=Hi+I'm+Lerisha+John;Quantum+%2B+AI%2FML+Researcher;Curiosity+is+my+code!" alt="Typing SVG" />
-</p>
----
-
-<!-- ASCII Art for Lerisha John -->
-  _                    _           _       _     
- | |                  (_)         (_)     | |    
- | |     ___   __ _ ___ _ __  _ __ _  __ _| |__  
- | |    / _ \ / _` / __| '_ \| '__| |/ _` | '_ \ 
- | |___| (_) | (_| \__ \ |_) | |  | | (_| | | | |
- |______\___/ \__, |___/ .__/|_|  |_|\__, |_| |_|
-               __/ |   | |           __/ |      
-              |___/    |_|          |___/       
 
 
 ## 📈 GitHub Stats
