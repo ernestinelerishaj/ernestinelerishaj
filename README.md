@@ -1,10 +1,6 @@
 # Know About Ernestine Lerisha John 😉
 
 I’m a researcher exploring the mysteries of quantum and AI/ML — like blending stardust with logic to uncover what lies beneath the surface
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=500&color=F7305B&width=1000&lines=I%E2%80%99m+a+researcher+exploring+the+mysteries+of+quantum+and+AI%2FML+—;like+blending+stardust+with+logic+to+uncover+what+lies+beneath+the+surface" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🛠️ Skills & Technologies
