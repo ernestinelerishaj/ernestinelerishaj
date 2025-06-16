@@ -28,6 +28,17 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 </p>
 ---
 
+<!-- ASCII Art for Lerisha John -->
+  _                    _           _       _     
+ | |                  (_)         (_)     | |    
+ | |     ___   __ _ ___ _ __  _ __ _  __ _| |__  
+ | |    / _ \ / _` / __| '_ \| '__| |/ _` | '_ \ 
+ | |___| (_) | (_| \__ \ |_) | |  | | (_| | | | |
+ |______\___/ \__, |___/ .__/|_|  |_|\__, |_| |_|
+               __/ |   | |           __/ |      
+              |___/    |_|          |___/       
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
