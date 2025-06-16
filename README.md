@@ -33,6 +33,13 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 
 ---
 
+## 🌟 Fun Facts
+
+- I love blending deep tech with real-world purpose 💡
+- Coffee fuels my code ☕
+- Quantum jokes always collapse into laughter (or silence)
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -46,6 +53,9 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestine-lerisha-john-4a863a204/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ernestinelerishaj@gmail.com)
 [![Topmate](https://img.shields.io/badge/Topmate-1DA1F2?style=flat-square&logo=meetup&logoColor=white)](https://topmate.io/ernestine_lerisha)
+
+Thanks for scrolling this far!  
+☕ Grab a coffee with me — let’s chat about quantum mysteries, AI/ML adventures, or cool projects in between.  
 ---
 
-_✨ Let’s build something impactful together!_
+
