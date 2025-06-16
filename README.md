@@ -23,6 +23,11 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7305B&width=435&lines=Hi+I'm+Lerisha+John;Quantum+%2B+AI%2FML+Researcher;Curiosity+is+my+code!" alt="Typing SVG" />
+</p>
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -48,9 +53,6 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 </p>
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ernestinelerishaj&style=flat-square&color=blue)
-
 
 ## 📬 Connect with Me
 
