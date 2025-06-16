@@ -1,30 +1,8 @@
-## Hi there 👋
+# 👋Know About Ernestine Lerisha John
 
-<!--
-**ernestinelerishaj/ernestinelerishaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi there, I'm Ernestine Lerisha J
-
-🎓 Final Year | Computer Science Engineering Student | NIT Trichy  
-💡 Passionate about AI, IoT, and Social Impact Tech  
-🚑 Building MedTech & Safety Solutions | Hackathon Enthusiast  
-🌐 Contributor to open source | Eager Learner
+I’m a researcher exploring the mysteries of quantum and AI/ML — like blending stardust with logic to uncover what lies beneath the surface
 
 ---
-
-
 
 ## 🛠️ Skills & Technologies
 <p align="left">
@@ -39,51 +17,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YOLOv5-red?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-orange?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=arduino&logoColor=white" />
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=white)
+  ![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat&logo=ibm)
 </p>
-
----
-## 🛠️ Skills & Technologies
-
-### 👩‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-
-### 📡 IoT & Embedded Systems  
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)  
-ESP32, MAX30102, NEO-6M GPS, MQTT Protocol
-
-### 🤖 AI & Machine Learning  
-YOLOv7 / YOLOv10, OpenCV, MediaPipe  
-LangChain + FAISS for RAG Pipelines  
-Google Colab, Jupyter Notebook
-
-### ☁️ Cloud & Backend  
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
-### ⚛️ Quantum Computing  
-![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat&logo=ibm)
-Quantum Circuits, Qubit Gates, IBM Q Experience
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ernestinelerishaj&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ernestinelerishaj&color=blue)
-
-## 🚀 Projects & Hackathons
-
-- 🧠 **NourishBot** – Watson-based chatbot to reduce food wastage and hunger  
-- 🚑 **MedTech IoT for Ambulances** – Emergency blood loss management using ESP32, MAX30102, GPS, MQTT & RAG-based LangChain  
-- 📷 **Accident Detection with YOLO** – Real-time object detection system for traffic and safety  
-- 🌿 **UAV Leaf Nutrient Deficiency Detection** – AI model using drone imagery & YOLOv5  
-- 🛒 **Stores and Purchases System** – Inventory automation for NIT Trichy using React, Firebase, Node.js
 
 ---
 
@@ -109,7 +45,7 @@ Quantum Circuits, Qubit Gates, IBM Q Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestine-lerisha-john-4a863a204/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ernestinelerishaj@gmail.com)
-
+[!Topmate](https://topmate.io/ernestine_lerisha)
 ---
 
 _✨ Let’s build something impactful together!_
