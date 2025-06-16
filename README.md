@@ -1,5 +1,4 @@
 # Know About Ernestine Lerisha John 😉
-
 I’m a researcher exploring the mysteries of quantum and AI/ML — like blending stardust with logic to uncover what lies beneath the surface
 ---
 
