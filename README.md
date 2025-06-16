@@ -1,4 +1,4 @@
-# 👋Know About Ernestine Lerisha John
+# Know About Ernestine Lerisha John 😉
 
 I’m a researcher exploring the mysteries of quantum and AI/ML — like blending stardust with logic to uncover what lies beneath the surface
 
@@ -17,8 +17,8 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
   <img src="https://img.shields.io/badge/YOLOv5-red?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-orange?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=arduino&logoColor=white" />
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=white)
-  ![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat&logo=ibm)
+  <img src="https://img.shields.io/badge/LaTeX-05122A?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-563D7C?style=flat-square&logo=ibm&logoColor=white" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestine-lerisha-john-4a863a204/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ernestinelerishaj@gmail.com)
-[!Topmate](https://topmate.io/ernestine_lerisha)
+[![Topmate](https://img.shields.io/badge/Topmate-1DA1F2?style=flat-square&logo=meetup&logoColor=white)](https://topmate.io/ernestine_lerisha)
 ---
 
 _✨ Let’s build something impactful together!_
