@@ -39,6 +39,7 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 - Coffee fuels my code ☕
 - Quantum jokes always collapse into laughter (or silence)
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -47,6 +48,9 @@ I’m a researcher exploring the mysteries of quantum and AI/ML — like blendin
 </p>
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ernestinelerishaj&style=flat-square&color=blue)
+
 
 ## 📬 Connect with Me
 
