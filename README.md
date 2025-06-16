@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 🌐 Contributor to open source | Eager Learner
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=ernestinelerishaj&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ernestinelerishaj&color=blue)
+
 
 ## 🛠️ Skills & Technologies
 <p align="left">
